@@ -1,0 +1,5 @@
+
+Ajout de la fonction ResetAlrm() dans le windowclient.h afin de faire une fonction plus "propre" que de copier et coller les lignes du reset de l'alarme dans chaque bouton à cliquer.
+    -> On a donc aussi la fonctione void windowClient::ResetAlrm() qui est présente dans windowClient.cpp
+
+    
